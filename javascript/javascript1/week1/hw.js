@@ -40,4 +40,22 @@ console.log ('The value of my variable babyBoy is:' +babyBoy)
 console.log(typeof babyBoy);
 
 
+//step 4 Age-ify
 
+const yearOfBirth = 1991
+console.log(typeof yearOfBirth);
+
+const yearFuture = 2050
+console.log(typeof yearFuture);
+
+const age = ('yearFuture-yearOfBirth');
+console.log('you will be:' + age, 'in the year:'+ yearFuture);
+
+//goodboy-oldboy
+
+const dogYearOfBirth = 1991
+const dogYearFuture = 2027
+const dogYear = ('dogYearOfBirth-dogYearFuture');
+const shouldShowResultInDogYears = dogYear{
+    if ()
+}
