@@ -48,14 +48,46 @@ console.log(typeof yearOfBirth);
 const yearFuture = 2050
 console.log(typeof yearFuture);
 
-const age = ('yearFuture-yearOfBirth');
-console.log('you will be:' + age, 'in the year:'+ yearFuture);
+const age = yearFuture - yearOfBirth;
+console.log('you will be:' + age + 'years old in' + yearFuture);
 
 //goodboy-oldboy
 
 const dogYearOfBirth = 1991
 const dogYearFuture = 2027
-const dogYear = ('dogYearOfBirth-dogYearFuture');
-const shouldShowResultInDogYears = dogYear{
-    if ()
+const shouldShowResultInDogYears = false;
+if (shouldShowResultInDogYears ===true){
+    const dogYear = (dogYearFuture - dogYearOfBirth);
+    console.log ('your dog will be:'+ dogYear + 'dog years old in' + dogYearFuture );
 }
+else {
+    const dogYear= (dogYearFuture - dogYearOfBirth)* 2 ;
+    console.log ('your dog will be:' + dogYear + 'human years old in' + dogYearFuture);
+}
+
+//Housey pricey
+const volumeInMetersPetersHouse = 8* 10 * 10;
+
+const volumeInMetersJuliasHouse = 5* 11* 8;
+
+const housePricePeter = volumeInMetersPetersHouse * 2.5 * 1000 + 100 *300;
+console.log (housePricePeter);
+const housePriceJulia = volumeInMetersPetersHouse * 2.5 * 1000 +70 * 300;
+console.log (housePriceJulia);
+ 
+if (housePricePeter <= 2500000 ){
+    priceOk ='paid high';
+    console.log ("Peter" + priceOk + 'for the house');}
+else {
+    priceOk =" paid less"
+    console.log ( "Peter" + priceOk +  'for the house');
+}
+
+if (housePriceJulia <= 1000000){
+    priceOk = 'paid high';
+    console.log ("Julia" + priceOK + 'for the house');}
+else {
+    priceOk = " paid less";
+    console.log ("Julia" + priceOk + 'for the house');
+}   
+
