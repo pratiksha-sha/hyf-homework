@@ -91,3 +91,10 @@ else {
     console.log ("Julia" + priceOk + 'for the house');
 }   
 
+//Ez Namey
+
+const firstWords = ["Easy", "Awesome", "Nice", "cool", "Co-create", "corporate","classy", "Roots","raisen", "flourish"];
+const secondWords =["frigg","Accenture","PWD","Novo","McKney","ehack","Novozyme","grow","Uni","Action"];
+const randomNumber = Math.floor(Math.random() * 10) + 0;
+const startUpName = randomNumber;
+console.log (startUpName);
