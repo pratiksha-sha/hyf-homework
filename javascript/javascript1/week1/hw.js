@@ -16,7 +16,7 @@ const myFavAnimals = ['rabbit','dog','elephant'];//adding baby pig
 console.log(myFavAnimals);
 
 const newAnimal = "baby pig"
-console.log('my favourite animals are:' + myFavAnimals + newAnimal);
+console.log('my favourite animals are' + myFavAnimals + ',' + newAnimal);
 
 //number 4
 let myString = ("this is a test");
@@ -24,19 +24,19 @@ console.log (myString.length);
 
 //number 5
 const baby = 1;
-console.log ('The value of my variable baby is:' + baby);
+console.log ('The value of my variable baby is' + '' + baby);
 console.log (typeof baby);
 
 const babyLikes = "to babble";
-console.log ('The value of my variable babyLikes is:' +babyLikes)
+console.log ('The value of my variable babyLikes is' + '' + babyLikes)
 console.log(typeof babyLikes);
 
 const babyCan = ['walk', 'say hej','use spoon'];
-console.log ('The value of my variable babyCan is:' +babyCan)
+console.log ('The value of my variable babyCan is' + '' + babyCan)
 console.log(typeof babyCan);
 
 const babyBoy = true;
-console.log ('The value of my variable babyBoy is:' +babyBoy)
+console.log ('The value of my variable babyBoy is' + ''+ babyBoy)
 console.log(typeof babyBoy);
 
 
@@ -49,7 +49,7 @@ const yearFuture = 2050
 console.log(typeof yearFuture);
 
 const age = yearFuture - yearOfBirth;
-console.log('you will be:' + age + 'years old in' + yearFuture);
+console.log('you will be'+' '+ age + ' ' +'years old in' + yearFuture);
 
 //goodboy-oldboy
 
@@ -57,12 +57,12 @@ const dogYearOfBirth = 1991
 const dogYearFuture = 2027
 const shouldShowResultInDogYears = false;
 if (shouldShowResultInDogYears ===true){
-    const dogYear = (dogYearFuture - dogYearOfBirth);
-    console.log ('your dog will be:'+ dogYear + 'dog years old in' + dogYearFuture );
+    let dogYear = (dogYearFuture - dogYearOfBirth);
+    console.log ('your dog will be'+ dogYear + 'dog years old in' + dogYearFuture );
 }
 else {
-    const dogYear= (dogYearFuture - dogYearOfBirth)* 2 ;
-    console.log ('your dog will be:' + dogYear + 'human years old in' + dogYearFuture);
+    let dogYear= (dogYearFuture - dogYearOfBirth)* 2 ;
+    console.log ('your dog will be' +' '+dogYear + ' ' + 'human years old in' + ' '+ dogYearFuture);
 }
 
 //Housey pricey
@@ -77,7 +77,7 @@ console.log (housePriceJulia);
  
 if (housePricePeter <= 2500000 ){
     priceOk ='paid high';
-    console.log ("Peter" + priceOk + 'for the house');}
+    console.log ("Peter" + ' ' + priceOk + ' '+ 'for the house');}
 else {
     priceOk =" paid less"
     console.log ( "Peter" + priceOk +  'for the house');
@@ -88,7 +88,7 @@ if (housePriceJulia <= 1000000){
     console.log ("Julia" + priceOK + 'for the house');}
 else {
     priceOk = " paid less";
-    console.log ("Julia" + priceOk + 'for the house');
+    console.log ("Julia" + priceOk + ' ' +'for the house');
 }   
 
 //Ez Namey
@@ -96,5 +96,5 @@ else {
 const firstWords = ["Easy", "Awesome", "Nice", "cool", "Co-create", "corporate","classy", "Roots","raisen", "flourish"];
 const secondWords =["frigg","Accenture","PWD","Novo","McKney","ehack","Novozyme","grow","Uni","Action"];
 const randomNumber = Math.floor(Math.random() * 10) + 0;
-const startUpName = randomNumber;
-console.log (startUpName);
+let startUpName = randomNumber.map()
+console.log ('The' + startUpName + contains + 'characters' );
