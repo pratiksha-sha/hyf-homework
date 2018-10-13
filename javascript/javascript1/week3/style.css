@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+}
+h1{
+  text-align: center;
+  color: rgb(52, 58, 52);
+  padding-top:10px;
+}
+header{
+    height:100px;
+    border-bottom: 2px,solid,red;
+    background-color: rgb(231, 163, 163);
+}
+
+img{
+    width:200px;
+
+}
+li{
+  list-style-type: none;
+}

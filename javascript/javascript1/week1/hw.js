@@ -96,5 +96,5 @@ else {
 const firstWords = ["Easy", "Awesome", "Nice", "cool", "Co-create", "corporate","classy", "Roots","raisen", "flourish"];
 const secondWords =["frigg","Accenture","PWD","Novo","McKney","ehack","Novozyme","grow","Uni","Action"];
 const randomNumber = Math.floor(Math.random() * 10) + 0;
-let startUpName = randomNumber[secondwords]
+let startUpName = (randomNumber['secondwords'])
 console.log ('The' + startUpName + contains + 'characters' );
