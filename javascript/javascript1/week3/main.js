@@ -19,7 +19,7 @@ const myBooks=
      id:1,
      title:'Me before you',
      lanuage:'English',
-     author: 'Jojo Moyes',
+     author: 'JOJO Moyes',
      imagesrc :'http://i38.photobucket.com/albums/e144/pratiksha-sha/me%20before%20you_zpsdokhhr9k.jpeg', 
 },  
 
@@ -61,27 +61,29 @@ const myBooks=
     imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/one%20with%20you_zpsk7dwvwfj.jpeg',
 },
 {
-    id:7,
-title:'The Twilight Saga',
-lanuage:'English',
-author: 'Stephenie Meyer',
-imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/the_twilight_saga_book_zpshr4emhzd.jpg',
-},
-{
-    id:8,
-title:'City of Bones',
-lanuage:'English',
-author: 'Cassandrs Clare',
-imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/city%20of%20bones_zpsfnz49axp.jpg',
-},
-{
-    id:9,
+id:9,
 title:'Captive IN THE Dark',
 lanuage:'English',
 author: 'CJ Roberts',
 imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/captive_zpsaawpckg0.jpg',
 },
 
+{
+    
+    id:8,
+title:'City of Bones',
+lanuage:'English',
+author: 'Cassandrs Clare',
+imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/city%20of%20bones_zpsfnz49axp.jpg',
+},
+   
+{
+    id:7,
+title:'The Twilight Saga',
+lanuage:'English',
+author: 'Stephenie Meyer',
+imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/the_twilight_saga_book_zpshr4emhzd.jpg',
+},
 {
     id:10,
 title:'The Longest Ride',
@@ -122,3 +124,7 @@ imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/Longest%20ride_zp
     document.getElementById('myList').appendChild(ul);
     }
     makelist();
+
+    function makeList(){
+    document.getElementById("mylist").style.flexwrap = "wrap";
+    }
