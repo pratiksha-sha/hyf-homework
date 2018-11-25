@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1>Movies:</h1>
+    <h2>Watch till full</h2>
+</header>
+<div class='buttons'>
+    <button id="tites"class="btn">Titles</button>
+    <button id="good"class="btn">good Movies</button>
+    <button id="average"class="btn">Average Movies</button>
+    <button id="bad"class="btn">Bad Movies</button>
+</div>
+<div class="dropdown">
+    <button clas="drop btn">Keywords</button>
+    <div class ="dropdown-content">
+        <a href = "#" id = "the" onclick ="searchword('the')">Titles with 'The'</a>
+        <a href = "#" id = "dog" onclick ="searchword('dog')">Titles with 'dog'</a>
+        <a href = "#" id = "who" onclick ="searchword('who')">Titles with 'who'</a>
+        <a href = "#" id = "is" onclick ="searchword('is')">Titles with 'is'</a>
+        <a href = "#" id = "not" onclick ="searchword('not')">Titles with 'not'</a>
+        <a href = "#" id = "a" onclick ="searchword('a')">Titles with 'a'</a>
+        <a href = "#" id = "man" onclick ="searchword('man')">Titles with 'man'</a>
+    </div>
+</div>
+<div id = "output"></div>
+
+    <script src ="main.js"> </script>
+</body>
+</html>
