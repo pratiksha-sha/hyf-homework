@@ -1,0 +1,55 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red104\green103\blue103;\red28\green109\blue54;\red52\green52\blue52;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 my favourite food is mo-mo \
+\pard\pardeftab720\sl500
+
+\f1\fs36 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How to Make Vegetable Momos\
+\pard\tx220\tx720\pardeftab720\li720\fi-720
+\ls1\ilvl0\cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 1.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Mix the maida, salt and baking powder and knead to a stiff dough with water.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 2.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Heat oil and add the onion and garlic.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 3.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Saute over high heat and add the carrot and cabbage. Turn around over high heat till glossy.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 4.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Take it off the heat and mix in the Soya sauce, salt, vinegar and black pepper.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 5.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Roll the dough thin (translucent) and cut into 4"-5" rounds.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 6.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Take a round, wet edges and place some filling in the center.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 7.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Bring edges together to cover the filling. Twist to seal and fill the rest in the same way.\
+\ls1\ilvl0
+\fs36 \cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 8.\uc0\u8232 
+\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Steam for about 10 minutes and serve with soya sauce and chilli sauce.\
+}
