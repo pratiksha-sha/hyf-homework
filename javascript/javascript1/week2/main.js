@@ -78,7 +78,14 @@ addActivity('30/7-18', 'Facebook', 10);
 addActivity('1/8-18', 'gaming', 15);
 
 function showStatus(activities){
+    let  activity = 'empty';
     for (i = 0; i < activities.length; i++) {
-        console.log()
+      if 'empty' == true;
+      console.log ('show:'+ 'Add some activities before calling show status')
+    
+      let activityLimit = '3000gb';
+      
 }
 }
+
+

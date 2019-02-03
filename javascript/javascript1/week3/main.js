@@ -126,5 +126,8 @@ imagesrc:'http://i38.photobucket.com/albums/e144/pratiksha-sha/Longest%20ride_zp
     makelist();
 
     function makeList(){
-    document.getElementById("mylist").style.flexwrap = "wrap";
+    document.getElementById("myList").style.flexwrap = "wrap";
     }
+
+
+   
