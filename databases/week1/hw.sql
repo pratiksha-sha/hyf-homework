@@ -5,9 +5,6 @@ select count(id) from task;
 #2.Find out how many tasks in the task table do not have a valid due date
 
 select count(id)
-from task;
-
-select count(id)
 from task 
 where due_date is null;
 
@@ -58,4 +55,14 @@ from task
 join status on task.status_id = status.id
 group by task.status_id desc;
 
+#Or
+select status.name, count(status.name) as number_of_status
+from status as status join task on status.id=task.status_id
+group by status.id
+order by number_of_status desc;
+
+
+
+
+describe task;
 
